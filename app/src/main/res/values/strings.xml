@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Baby Sitter Kata</string>
+    <string name="calculate_button_text">CALCULATE</string>
+    <string name="next_button_text">NEXT</string>
+    <string name="result_label_text">Your calculated nightly charge is…</string>
+    <string name="restart_button_text">RESTART</string>
+</resources>
