@@ -2,7 +2,7 @@
 As a babysitter, I want to know how much I will get paid for one night of work.
 
 ## Instructions
-### Before runing any of the commands make sure you are in the root directory of the repo (~/BabySitterKata)
+### Before runing any of the commands make sure you are in the root directory of the repo (~/babysitterkata)
 To build an apk run:
 >`gradlew assembleDebug`
 
